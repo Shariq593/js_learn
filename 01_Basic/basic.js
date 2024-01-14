@@ -11,4 +11,4 @@ console.log(typeof (accountEmail));
 /*typeof Used to check the type of the variable
 2 ways:
 1) console.log(typeof var)
-2) console.log(typeof(var)) ~ A method
+2) console.log(typeof(var)) ~ A method*/
